@@ -1,0 +1,43 @@
+h1{
+    color: cornflowerblue;
+    font-style: italic;
+    
+}
+*{
+    background-color: honeydew;
+}
+h2{
+    color: rgb(230, 156, 243);
+    font-style: italic;
+    font-stretch: wider;
+}
+li{
+    color:rgb(154, 98, 206);
+}
+hr{
+    color: aqua;
+    border-radius: 0cqmax;
+}
+li[src="./assets/images/birthday.png"]{color: rgb(218, 164, 93);
+
+}
+a [href="./public/movie-ranking.html"] {
+    color: rgb(212, 69, 212);
+}
+h1{
+    text-align: center;
+    text-shadow: 0ex;
+    text-shadow: rgb(87, 131, 214);
+
+}
+h2{
+    text-align: center;
+    text-shadow: 0cqmax;
+}
+h2{
+    text-decoration-line: underline;
+}
+img{
+    image-orientation: from-image;
+    text-align: center;
+}
